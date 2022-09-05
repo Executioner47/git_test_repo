@@ -1,3 +1,4 @@
 testing
 Line1 On Branch1
-Line2 On Branch2
+Line2 On Branch1
+Line3 On Branch1 after first push
